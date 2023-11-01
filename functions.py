@@ -3,7 +3,7 @@ def get_todos():
     """ Read a text file and return the list of
     to-do items.
     """
-    with open('/Users/nnaap/Downloads/members.txt', 'r') as file:
+    with open('members.txt', 'r') as file:
         todos = file.readlines()
     return todos
 
