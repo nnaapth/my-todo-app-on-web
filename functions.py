@@ -1,4 +1,4 @@
-FILEPATH='/Users/nnaap/Downloads/members.txt'
+FILEPATH='members.txt'
 def get_todos():
     """ Read a text file and return the list of
     to-do items.
